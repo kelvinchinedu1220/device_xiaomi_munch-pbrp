@@ -6,7 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_munch.mk
+    $(LOCAL_DIR)/pb_munch.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_munch-eng
+    pb_munch-eng
